@@ -1,0 +1,15 @@
+7 STEP PROCESS POR PROGRAMMING
+
+1. Work Example By Hand
+
+2. Write Down What You Did
+
+3. Find Patterns
+
+4. Check By Hand
+
+5. Translate To Code
+
+6. Run Taste Cases
+
+7. Debug Failed Test Cases
